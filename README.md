@@ -1,2 +1,1 @@
-# oni-ogbon
-Dev Container
+# Astro Starter Kit: Blog
